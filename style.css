@@ -1,0 +1,101 @@
+body{
+	margin:0;
+}
+a:hover{
+
+	text-decoration: none;
+}
+.first{
+	font-size: 12px;
+	background-color: #FEF7F6;
+}
+.seco{
+	color: #000000;
+	font-weight: bold;
+}
+.silon{
+	font-size: 30px;
+	text-decoration: none;
+	color:red;
+}
+.fash{
+	
+	background-image: url("images/final.jpg");
+	background-size: cover;
+	background-position: center;
+	height: auto;
+	
+	}
+.fasion{
+	font-size: 50px;
+	font-weight: bolder;
+	margin-top: 70px;
+	}
+.fasion .pp{
+	font-size: 13px;
+	color: #565656;
+	letter-spacing: 1px;
+}
+.bot{
+	font-size: 15px;
+	font-weight: bold;
+	padding: 12px 30px;
+	
+}
+.featured_pro{
+	font-weight: bold;
+	font-size: 35px;
+}
+
+.row .gallery{
+	margin-left: 200px;
+	width: 100%;
+	height: auto;
+	align-content: center;
+}
+.price{
+	font-weight: bold;
+
+}
+.rating{
+	align-content: center;
+	text-align: center;
+}
+.off_banner{
+	background-color: #EAE2D8;
+	height: 400px;
+	
+
+}
+.announce{
+	padding-top: 100px;
+}
+.b1{
+	font-size: 60px;
+}
+.b2{
+	font-size: 25px;
+}
+.desc1{
+	font-weight: bold;
+	font-size: 20px;
+}
+.pay{
+	font-weight: bold;
+}
+
+.fotter{
+	background-color: #E9E2D8;
+	
+}
+.fot{
+	font-weight: bold;
+}
+
+.p1{
+	font-size: 11px;
+}
+.p2{
+	font-size: 12px;
+	font-weight: bold;
+}

@@ -9,31 +9,18 @@ a:hover{
 	font-size: 12px;
 	background-color: #FEF7F6;
 }
-
-.seco a{
-	color: #000000;
-}
-.seco a:hover{
-	color: red;
-}
-.bar a:hover{
-	background-color: lightgray;
-}
 .silon{
 	font-size: 35px;
 	text-decoration: none;
 	color:red;
 	font-weight: 700;
 }
-.silon a{
-	color:black;	
-}
-.silon a:hover{
+
+#change{
 	color:black;
 }
-.border{
-	border: 10px #000000;
-	
+#change:hover{
+	color:red;
 }
 .fash{
 	

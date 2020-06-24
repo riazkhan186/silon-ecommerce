@@ -9,32 +9,55 @@ a:hover{
 	font-size: 12px;
 	background-color: #FEF7F6;
 }
-.seco{
+
+.seco a{
 	color: #000000;
-	font-weight: bold;
+}
+.seco a:hover{
+	color: red;
+}
+.bar a:hover{
+	background-color: lightgray;
 }
 .silon{
-	font-size: 30px;
+	font-size: 35px;
 	text-decoration: none;
 	color:red;
+	font-weight: 700;
+}
+.silon a{
+	color:black;	
+}
+.silon a:hover{
+	color:black;
+}
+.border{
+	border: 10px #000000;
+	
 }
 .fash{
 	
-	background-image: url("images/final.jpg");
+	background-image: url("images/final.png");
+	
 	background-size: cover;
 	background-position: center;
-	height: auto;
-	
-	}
-.fasion{
+}
+
+.fashion{
 	font-size: 50px;
 	font-weight: bolder;
 	margin-top: 70px;
+	text-align: center;
+	padding: 8% 0;
+	
 	}
-.fasion .pp{
+.fashion .pp{
 	font-size: 13px;
 	color: #565656;
 	letter-spacing: 1px;
+}
+.hi{
+	height: auto;
 }
 .bot{
 	font-size: 15px;
